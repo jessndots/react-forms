@@ -1,0 +1,12 @@
+.NewBoxForm-Form {
+  margin: 10px;
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.NewBoxForm-Field {
+  margin-left: 3px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+

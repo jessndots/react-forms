@@ -1,0 +1,15 @@
+.Box {
+  display: flex;
+}
+
+.Box-Box {
+  background-color: white;
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  margin: 2px;
+}
+
+.Box-X {
+  height: 50%;
+}

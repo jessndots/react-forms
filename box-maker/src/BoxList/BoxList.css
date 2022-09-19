@@ -1,0 +1,19 @@
+.BoxList {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.BoxList-List {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.BoxList-Boxes {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 10px;
+}
+
+.BoxList-X {
+  height: 50%
+}

@@ -1,0 +1,36 @@
+.TodoList {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.TodoList-List {
+  display: flex;
+  flex-flow: column wrap;
+}
+
+.TodoList-Todo {
+  display: flex;
+  flex-flow: row wrap;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  align-items: center;
+
+}
+
+.TodoList-x {
+  text-align: center;
+  font-size: 10px;
+  font-weight: bold;
+  color: maroon;
+  height: 20px;
+  width: 20px;
+  border-width: 1px;
+  background-color: antiquewhite;
+  border-radius: 3px;
+  border-color: maroon;
+}
+
+.TodoList-Text {
+  margin: 5px;
+  font-size: medium;
+}

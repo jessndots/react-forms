@@ -1,0 +1,15 @@
+.NewTodoForm-Form {
+  max-width: 300px;
+  margin-left: 15px;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: stretch;
+}
+
+.NewTodoForm-Field {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+
